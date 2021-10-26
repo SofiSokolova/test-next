@@ -23,7 +23,7 @@ const Nav = () => (
                 </ActiveLink>
             </li>
             <li>
-                <ActiveLink activeClassName="active" href="/[slug]" as="/dynamic-route">
+                <ActiveLink activeClassName="active" href="/[test]" as="/dynamic-route">
                     <a className="nav-link">Dynamic Route</a>
                 </ActiveLink>
             </li>
